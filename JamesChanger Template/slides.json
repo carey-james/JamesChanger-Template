@@ -1,0 +1,31 @@
+{
+    "main_slides": {
+        "000": {
+            "question": "PLEASE GET YOUR DRINK \nAND FIND A SEAT",
+            "option_a": "",
+            "option_b": "",
+            "option_c": "",
+            "option_d": "",
+            "answer": ""
+        },
+        "001": {
+            "question": "",
+            "image": "JamesChangerLogo",
+            "audio": "IntroTheme",
+            "option_a": "",
+            "option_b": "",
+            "option_c": "",
+            "option_d": "",
+            "answer": ""
+        }
+    },
+    "special_slides": {
+        "1": {
+            "question": "MAXIMUM NUMBER OF \nCOLOR ALREADY SUBMITTED"
+        },
+        "2": {
+            "question": "TRAITOR FOUND \nTRAITOR FOUND \nTRAITOR FOUND"
+        }
+    }
+}
+    
